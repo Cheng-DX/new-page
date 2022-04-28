@@ -1,0 +1,15 @@
+{
+  "name": "main",
+  "version": "0.0.1",
+  "description": "new homepage",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vitest"
+  },
+  "author": "Cheng-DX",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^2.9.0"
+  }
+}
